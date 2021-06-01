@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/joaquinmoya.github.io/letras/static/css/main.a3434793.chunk.css",
-    "main.js": "/joaquinmoya.github.io/letras/static/js/main.4a6ffae7.chunk.js",
-    "main.js.map": "/joaquinmoya.github.io/letras/static/js/main.4a6ffae7.chunk.js.map",
+    "main.js": "/joaquinmoya.github.io/letras/static/js/main.616f6a9d.chunk.js",
+    "main.js.map": "/joaquinmoya.github.io/letras/static/js/main.616f6a9d.chunk.js.map",
     "runtime-main.js": "/joaquinmoya.github.io/letras/static/js/runtime-main.2ce17a92.js",
     "runtime-main.js.map": "/joaquinmoya.github.io/letras/static/js/runtime-main.2ce17a92.js.map",
     "static/js/2.96a38427.chunk.js": "/joaquinmoya.github.io/letras/static/js/2.96a38427.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2ce17a92.js",
     "static/js/2.96a38427.chunk.js",
     "static/css/main.a3434793.chunk.css",
-    "static/js/main.4a6ffae7.chunk.js"
+    "static/js/main.616f6a9d.chunk.js"
   ]
 }
