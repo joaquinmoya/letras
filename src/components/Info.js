@@ -11,7 +11,7 @@ const Info = ({info}) => {
             <div className='card-body'>
                 <img src={strArtistThumb} alt='Logo Artista'/>
                 <p className='card-text'>Genero: {strGenre}</p>
-                <h2 className='card-text'>Biografia:</h2>
+                <h2 className='card-text'>Biografía:</h2>
                 <p className='card-text'>{strBiographyES}</p>
                 <a href={`https://${info.strFacebook}`} target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-facebook"></i>
