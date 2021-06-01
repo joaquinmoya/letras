@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/joaquinmoya.github.io/letras/static/css/main.a3434793.chunk.css",
+    "main.js": "/joaquinmoya.github.io/letras/static/js/main.4a6ffae7.chunk.js",
+    "main.js.map": "/joaquinmoya.github.io/letras/static/js/main.4a6ffae7.chunk.js.map",
+    "runtime-main.js": "/joaquinmoya.github.io/letras/static/js/runtime-main.2ce17a92.js",
+    "runtime-main.js.map": "/joaquinmoya.github.io/letras/static/js/runtime-main.2ce17a92.js.map",
+    "static/js/2.96a38427.chunk.js": "/joaquinmoya.github.io/letras/static/js/2.96a38427.chunk.js",
+    "static/js/2.96a38427.chunk.js.map": "/joaquinmoya.github.io/letras/static/js/2.96a38427.chunk.js.map",
+    "static/js/3.547fb061.chunk.js": "/joaquinmoya.github.io/letras/static/js/3.547fb061.chunk.js",
+    "static/js/3.547fb061.chunk.js.map": "/joaquinmoya.github.io/letras/static/js/3.547fb061.chunk.js.map",
+    "index.html": "/joaquinmoya.github.io/letras/index.html",
+    "static/css/main.a3434793.chunk.css.map": "/joaquinmoya.github.io/letras/static/css/main.a3434793.chunk.css.map",
+    "static/js/2.96a38427.chunk.js.LICENSE.txt": "/joaquinmoya.github.io/letras/static/js/2.96a38427.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ce17a92.js",
+    "static/js/2.96a38427.chunk.js",
+    "static/css/main.a3434793.chunk.css",
+    "static/js/main.4a6ffae7.chunk.js"
+  ]
+}
